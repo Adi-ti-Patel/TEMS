@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "S+bYWlvaGlx/Q29WgvRTFWeGctOnV8d+fR8VHWaKuzQ=",
+  "Source": "TEMS.Client",
+  "BasePath": "_content/TEMS.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TEMS.Client\\wwwroot",
+      "Source": "TEMS.Client",
+      "ContentRoot": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\",
+      "BasePath": "_content/TEMS.Client",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\EventsImages\\building04.jpg",
+      "SourceId": "TEMS.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\",
+      "BasePath": "_content/TEMS.Client",
+      "RelativePath": "EventsImages/building04.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EventsImages\\building04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\EventsImages\\building06.jpg",
+      "SourceId": "TEMS.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\",
+      "BasePath": "_content/TEMS.Client",
+      "RelativePath": "EventsImages/building06.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EventsImages\\building06.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\SpeakersImages\\4002119.jpg",
+      "SourceId": "TEMS.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\",
+      "BasePath": "_content/TEMS.Client",
+      "RelativePath": "SpeakersImages/4002119.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SpeakersImages\\4002119.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\SpeakersImages\\Aditi.jpg",
+      "SourceId": "TEMS.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aditi.Patel\\source\\repos\\Learning\\TEMS_1\\TEMS.Client\\wwwroot\\",
+      "BasePath": "_content/TEMS.Client",
+      "RelativePath": "SpeakersImages/Aditi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SpeakersImages\\Aditi.jpg"
+    }
+  ]
+}
